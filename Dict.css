@@ -49,7 +49,7 @@ button {
     /* display: flex; */
     /* align-items: center; */
 
-    background: url("image/Books.jpg") no-repeat;
+    background: url("Image/Books.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
