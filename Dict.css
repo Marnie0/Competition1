@@ -1,0 +1,60 @@
+h1 {
+    color: snow;
+    display: inline-block;
+}
+
+h2 {
+    color: azure;
+
+}
+
+body,
+html {
+    height: 100%;
+}
+
+body {
+    color: azure;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+*:hover {
+    color: black;
+}
+
+#form {
+    height: 150px;
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+button {
+    background-color: #1d3557;
+    color: #48cae4;
+    padding: 10px 20px 10px 20px;
+}
+
+#Dictionary {
+    height: 100%;
+    min-height: 100px;
+    /* display: flex; */
+    /* align-items: center; */
+
+    background: url("image/Books.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+ol.horizontal-list li {
+    display: inline-block;
+}

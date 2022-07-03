@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    color: red;
+    display: inline-block;
+    margin-left: 800px;
+}
+
+h2 {
+    padding-left: 5px;
+}
+
+#Exam {
+    width: 100%;
+    min-height: 100vh;
+    /* display: flex; */
+    /* align-items: center; */
+
+
+    background: url("image/FinishRice.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

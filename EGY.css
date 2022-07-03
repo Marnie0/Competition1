@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    color: cornsilk;
+    font-size: large;
+}
+
+H1 {
+    display: inline-block;
+    padding: 5px 7px;
+    border: 5px solid black;
+    border-radius: 10px;
+    color: black;
+    margin-left: 750px;
+}
+
+h2 {
+    color: whitesmoke;
+    text-decoration: underline;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    display: inline-block;
+}
+
+#Ex {
+    height: 150px;
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    text-align: center;
+}
+
+
+#EG {
+    height: 200px;
+    width: 660px;
+    margin-top: 5px;
+    border: 5px solid sandybrown;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    padding: 0 3px 3px 5px;
+
+}
+
+#Nam {
+
+    height: 200px;
+    width: 600px;
+    margin-top: 5px;
+    border-radius: 10%;
+    border: 5px solid sandybrown;
+    box-sizing: border-box;
+    margin-left: 5px;
+    padding: 5px 5px;
+}
+
+.Cont {
+    display: flex;
+    gap: 50px;
+    margin-left: 15px;
+    margin-top: 0;
+}
+
+.Int {
+    font-size: larger;
+    color: snow;
+}
+
+button {
+    color: #f1f2f6;
+    background-color: #252422;
+    padding: 15px 15px 15px 15px;
+}
+
+#Egypt {
+    width: 100%;
+    min-height: 100vh;
+    /* display: flex; */
+    /* align-items: center; */
+
+    background: url("image/Pyramids.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
